@@ -1,0 +1,3 @@
+D:/Github/SqlMakerCpp/SqlMakerCPP/cmake-build-debug/CMakeFiles/SqlMakerCPP.dir
+D:/Github/SqlMakerCpp/SqlMakerCPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Github/SqlMakerCpp/SqlMakerCPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir

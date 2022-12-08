@@ -1,0 +1,4 @@
+"D:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\Github\SqlMakerCpp\SqlMakerCPP
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Github/SqlMakerCpp/SqlMakerCPP/cmake-build-debug

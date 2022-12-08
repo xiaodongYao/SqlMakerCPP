@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Github/SqlMakerCpp/SqlMakerCPP/CLoader.cpp
+CLoader.h
+D:/Github/SqlMakerCpp/SqlMakerCPP/CLoader.h
+LoadFlag.h
+D:/Github/SqlMakerCpp/SqlMakerCPP/LoadFlag.h
+iostream
+-
+chrono
+-
+filesystem
+-
+fstream
+-
+vector
+-
+io.h
+-
+
+D:/Github/SqlMakerCpp/SqlMakerCPP/CLoader.h
+string
+-
+
+D:/Github/SqlMakerCpp/SqlMakerCPP/LoadFlag.h
+
